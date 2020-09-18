@@ -1,0 +1,12 @@
+{
+  "name": "sierracooldown",
+  "version": "0.0.7",
+  "description": "does normal cooldowns",
+  "main": "index.js",
+  "repository": "github:cojored/cooldown",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cojored",
+  "license": "MIT"
+}
