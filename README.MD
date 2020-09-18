@@ -9,5 +9,15 @@ id = // User ID
 
 timeout = // time of cooldown in ms
 
-sierracooldown.cooldown(id, timeout)
+sierracooldown.cooldownID(id, timeout)
+// cooldown using discord ID's
+```
+```javascript
+const sierracooldown = require("sierracooldown")
+
+message = // message to send when cooldown is over
+
+timeout = // time of cooldown in ms
+
+sierracooldown.cooldownID(message, timeout)
 ```
